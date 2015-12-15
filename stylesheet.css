@@ -1,0 +1,26 @@
+.students {
+	background-color: #46d8d8;
+	width: 100px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	border: 1px black solid;
+}
+
+#container {
+	width: 500px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 20px;
+}
+
+.create-button {
+	border: none;
+	background-color: #008b8b;
+}
+
+.remove-button {
+	border: 1px black solid;
+	background-color: #13c3c3;
+}
